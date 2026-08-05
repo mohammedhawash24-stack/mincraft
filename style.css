@@ -1,0 +1,148 @@
+body{
+    background-image:url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/260b64bc-c5be-4e5f-bddc-f40033d3fcf3/dijdhpw-4db85807-431c-418b-b84b-d9906fcd621d.jpg/v1/fill/w_1280,h_732,q_75,strp/minecraft_world_by_shreesharao_dijdhpw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMyIiwicGF0aCI6IlwvZlwvMjYwYjY0YmMtYzViZS00ZTVmLWJkZGMtZjQwMDMzZDNmY2YzXC9kaWpkaHB3LTRkYjg1ODA3LTQzMWMtNDE4Yi1iODRiLWQ5OTA2ZmNkNjIxZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cD6YxZ1js2XXhoDWidtMhG7VpjO1yt2PQd7o3bF4WH0");
+    background-size:cover;
+    background-position:center;width:100%;
+    height:100vh;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-color:rgba(0,0,0,0.5);
+}
+.mincraft img{
+    width: 800px;
+    height: auto ;
+    background: transparent;
+    display: block;
+    margin: 20px auto;
+
+}
+.mincraft{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 70px;
+gap: 8px;
+margin-left: 580px;
+    width: 40%;
+    color: gray;
+    font-family: "Minecraft", sans-serif;
+    font-size: 20px;
+
+}
+ @font-face {
+    font-family: "Minecraft";
+    src: url("font.sss/MinecraftEvenings-lgvPd.ttf") format("truetype");
+}
+.btn1, .btn2, .btn3 {
+    font-family: "Minecraft", sans-serif;
+    background: #9b9b9b;
+    border: 2px solid #303030;
+    color: white;
+    padding: 15px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    
+    background: linear-gradient(#7e7b7b, #8f8f8f);
+    border: 2px solid #4a4a4a;
+    box-shadow:
+        inset 2px 2px 0 #3d3d3d,
+        inset -2px -2px 0 #5c5c5c;
+
+}
+.butondown{
+    
+    display: inline-block;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+gap: 8px;
+margin-left: 580px;
+    color: gray;
+    font-family: "Minecraft", sans-serif;
+    font-size: 20px;
+    
+
+}
+
+.btn4{
+    display: inline-block;
+    flex-direction: row ;
+ width: 350px;
+    font-family: "Minecraft", sans-serif;
+    background: #9b9b9b;
+    border: 2px solid #303030;
+    color: white;
+    padding: 15px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    
+    background: linear-gradient(#7e7b7b, #8f8f8f);
+    border: 2px solid #4a4a4a;
+    box-shadow:
+        inset 2px 2px 0 #3d3d3d,
+        inset -2px -2px 0 #5c5c5c;
+}
+.btn5{display: inline-block;
+    flex-direction: column ;
+    font-family: "Minecraft", sans-serif;
+    background: #9b9b9b;
+    border: 2px solid #303030;
+    color: white;
+    padding: 15px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-left: 55px;
+    background: linear-gradient(#7e7b7b, #8f8f8f);
+    border: 2px solid #4a4a4a;
+    box-shadow:
+        inset 2px 2px 0 #3d3d3d,
+        inset -2px -2px 0 #5c5c5c;
+width: 350px;
+}
+.btn6{display: inline-block;
+    flex-direction: column ;
+    font-family: "Minecraft", sans-serif;
+    background: #9b9b9b;
+    border: 2px solid #303030;
+    color: white;
+    padding: 10px 10px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-left: 45px;
+    background: linear-gradient(#7e7b7b, #8f8f8f);
+    border: 2px solid #4a4a4a;
+    box-shadow:
+        inset 2px 2px 0 #3d3d3d,
+        inset -2px -2px 0 #5c5c5c;}
+
+    .logo{
+        width: 200px;   
+        background: transparent;
+margin-top: -1200px;
+        margin-left: 1500px; }
+
+body {
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/260b64bc-c5be-4e5f-bddc-f40033d3fcf3/dijdhpw-4db85807-431c-418b-b84b-d9906fcd621d.jpg/v1/fill/w_1280,h_732,q_75,strp/minecraft_world_by_shreesharao_dijdhpw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMyIiwicGF0aCI6IlwvZlwvMjYwYjY0YmMtYzViZS00ZTVmLWJkZGMtZjQwMDMzZDNmY2YzXC9kaWpkaHB3LTRkYjg1ODA3LTQzMWMtNDE4Yi1iODRiLWQ5OTA2ZmNkNjIxZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cD6YxZ1js2XXhoDWidtMhG7VpjO1yt2PQd7o3bF4WH0)
+    ;
+    background-size: cover;
+    background-repeat: repeat-x;
+    animation: moveBackground 40s linear infinite;
+}
+
+@keyframes moveBackground {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: -1000px 0;
+    }
+}

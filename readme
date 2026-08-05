@@ -1,0 +1,64 @@
+# Minecraft 2D
+
+A simple 2D Minecraft-inspired game built with HTML, CSS, and JavaScript.
+
+## Features
+
+- 🌍 Random world generation
+- 🌳 Random cherry trees
+- ⛏️ Four tools:
+  - Pickaxe
+  - Axe
+  - Shovel
+  - Sword
+- 💎 Mine different ores:
+  - Diamond
+  - Gold
+  - Emerald
+- 🎒 Inventory system
+- 🔢 Item quantity counter
+- ⌨️ Tool selection using keys (1-4)
+- 🖱️ Place blocks from the inventory
+
+## Controls
+
+| Key | Tool |
+|------|------|
+| 1 | Pickaxe |
+| 2 | Axe |
+| 3 | Shovel |
+| 4 | Sword |
+
+## Built With
+
+- HTML5
+- CSS
+- JavaScript
+
+## Project Structure
+
+```
+minecraft/
+│
+├── singleplayer.html
+├── singleplayer.css
+├── minv.js
+├── README.md
+└── imgs/
+```
+
+## Future Plans
+
+- Player movement
+- Crafting table
+- Health system
+- Enemies
+- Animals
+- Day & night cycle
+- Saving the world
+- Better inventory
+- Multiplayer
+
+## Author
+
+Mohammed
